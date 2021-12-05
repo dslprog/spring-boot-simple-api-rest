@@ -1,0 +1,1 @@
+Very simple example of a Spring Boot API Rest using authentication using JWT.  
